@@ -1306,7 +1306,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
   <br />
 </p>
 
-# Xarmin Learning Resources
+## Xarmin Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Xaramin-Guide#table-of-contents)
 
 [Xamarin](https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin) is an open-source platform for building modern and performant applications for iOS, Android, and Windows with.NET. Xamarin is an abstraction layer that manages communication of shared code with underlying platform code. Xamarin runs in a managed environment that provides conveniences such as memory allocation and garbage collection.
@@ -1337,7 +1337,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Online Xamarin Classes | Skillshare](https://www.skillshare.com/browse/xamarin)
 
-# Xaramin Tools, Libraries, and Frameworks
+## Xaramin Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Xaramin-Guide#table-of-contents)
 
 [Xamarin.Forms](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms) is an open source cross-platform framework from Microsoft for building iOS, Android, & Windows apps with .NET from a single shared codebase.
