@@ -19,15 +19,15 @@
 
 2. [Azure Development](https://github.com/mikeroyal/VSCode-Guide#azure-development)
 
-3. [AWS Development](https://github.com/mikeroyal/VSCode-Guide#azure-development)
+3. [AWS Development](https://github.com/mikeroyal/VSCode-Guide#aws-development)
 
-4. [Google Cloud Development](https://github.com/mikeroyal/VSCode-Guide#azure-development)
+4. [Google Cloud Development](https://github.com/mikeroyal/VSCode-Guide#google-cloud-development)
 
 5. [Kubernetes](https://github.com/mikeroyal/VSCode-Guide#kubernetes)
 
 6. [Docker](https://github.com/mikeroyal/VSCode-Guide#docker)
 
-7. [Ansible](https://github.com/mikeroyal/VSCode-Guide#Anisble)
+7. [Ansible](https://github.com/mikeroyal/VSCode-Guide#Ansible)
 
 8. [Terraform](https://github.com/mikeroyal/VSCode-Guide#Terraform)
 
@@ -39,7 +39,7 @@
 
 12. [F# Development](https://github.com/mikeroyal/VSCode-Guide#f-development)
 
-13. [Xamarin Development](https://github.com/mikeroyal/VSCode-Guide#Xaramin-Develpment)
+13. [Xamarin Development](https://github.com/mikeroyal/VSCode-Guide#Xaramin-Development)
 
 14. [PowerShell Development](https://github.com/mikeroyal/VSCode-Guide#powershell-development)
 
@@ -2438,10 +2438,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 # C/C++ Development
 [Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
 
-<h1 align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
   <br />
-</h1>
+</p>
 
 
 ## C/C++ Learning Resources
@@ -2588,10 +2588,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 # Java Development
 [Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
 
-<h1 align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
   <br />
-</h1>
+</p>
 
 ## Java Learning Resources
 
@@ -3394,7 +3394,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
 
-# Ruby Develpment
+# Ruby Development
 [Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
 
 <p align="center">
@@ -3590,6 +3590,11 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 # Networking
 [Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
+  <br />
+</p>
 
 ## Network Learning Resources
 
