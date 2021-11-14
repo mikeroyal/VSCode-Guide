@@ -1,10 +1,10 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
   <br />
-  VSCode Guide
+  VS Code Guide
 </h1>
 
-#### A guide covering VSCode including the applications, libraries and tools that will make you a better and more efficient with VSCode development.
+#### A guide covering VS Code including the applications, libraries and tools that will make you a better and more efficient with VS Code development.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
@@ -33,65 +33,67 @@
 
 9. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/VSCode-Guide#windows-subsystem-for-linux-wsl)
 
-10. [.NET Development](https://github.com/mikeroyal/VSCode-Guide#net-development)
+10. [GraphQL Development](https://github.com/mikeroyal/VSCode-Guide#graphql-development)
 
-11. [C# Development](https://github.com/mikeroyal/VSCode-Guide#c-development)
+11. [.NET Development](https://github.com/mikeroyal/VSCode-Guide#net-development)
 
-12. [F# Development](https://github.com/mikeroyal/VSCode-Guide#f-development)
+12. [C# Development](https://github.com/mikeroyal/VSCode-Guide#c-development)
 
-13. [Xamarin Development](https://github.com/mikeroyal/VSCode-Guide#Xaramin-Development)
+13. [F# Development](https://github.com/mikeroyal/VSCode-Guide#f-development)
 
-14. [PowerShell Development](https://github.com/mikeroyal/VSCode-Guide#powershell-development)
+14. [Xamarin Development](https://github.com/mikeroyal/VSCode-Guide#Xaramin-Development)
 
-15. [TypeScript Development](https://github.com/mikeroyal/VSCode-Guide#typescript-development)
+15. [PowerShell Development](https://github.com/mikeroyal/VSCode-Guide#powershell-development)
 
-16. [JavaScript Development](https://github.com/mikeroyal/VSCode-Guide#javascript-development)
+16. [TypeScript Development](https://github.com/mikeroyal/VSCode-Guide#typescript-development)
 
-17. [React Development](https://github.com/mikeroyal/VSCode-Guide#react-development)
+17. [JavaScript Development](https://github.com/mikeroyal/VSCode-Guide#javascript-development)
 
-18. [Ionic Development](https://github.com/mikeroyal/VSCode-Guide#ionic-development)
+18. [React Development](https://github.com/mikeroyal/VSCode-Guide#react-development)
 
-19. [Cordova Development](https://github.com/mikeroyal/VSCode-Guide#cordova-development)
+19. [Ionic Development](https://github.com/mikeroyal/VSCode-Guide#ionic-development)
 
-20. [Angular Development](https://github.com/mikeroyal/VSCode-Guide#angular-development)
+20. [Cordova Development](https://github.com/mikeroyal/VSCode-Guide#cordova-development)
 
-21. [Vue.js Development](https://github.com/mikeroyal/VSCode-Guide#vuejs-development)
+21. [Angular Development](https://github.com/mikeroyal/VSCode-Guide#angular-development)
 
-22. [Svelte Development](https://github.com/mikeroyal/VSCode-Guide#svelte-development)
+22. [Vue.js Development](https://github.com/mikeroyal/VSCode-Guide#vuejs-development)
 
-23. [Node.js Development](https://github.com/mikeroyal/VSCode-Guide#nodejs-development)
+23. [Svelte Development](https://github.com/mikeroyal/VSCode-Guide#svelte-development)
 
-24. [jQuery Development](https://github.com/mikeroyal/VSCode-Guide#jquery-development)
+24. [Node.js Development](https://github.com/mikeroyal/VSCode-Guide#nodejs-development)
 
-25. [ElectronJS Development](https://github.com/mikeroyal/VSCode-Guide#electron-development)
+25. [jQuery Development](https://github.com/mikeroyal/VSCode-Guide#jquery-development)
 
-26. [C/C++ Development](https://github.com/mikeroyal/VSCode-Guide#cc-development)
+26. [ElectronJS Development](https://github.com/mikeroyal/VSCode-Guide#electron-development)
 
-27. [Java Development](https://github.com/mikeroyal/VSCode-Guide#java-development)
+27. [C/C++ Development](https://github.com/mikeroyal/VSCode-Guide#cc-development)
 
-28. [Kotlin Development](https://github.com/mikeroyal/VSCode-Guide#kotlin-development)
+28. [Java Development](https://github.com/mikeroyal/VSCode-Guide#java-development)
 
-29. [Clojure Development](https://github.com/mikeroyal/VSCode-Guide#clojure-development)
+29. [Kotlin Development](https://github.com/mikeroyal/VSCode-Guide#kotlin-development)
 
-30. [Python Development](https://github.com/mikeroyal/VSCode-Guide#python-development)
+30. [Clojure Development](https://github.com/mikeroyal/VSCode-Guide#clojure-development)
 
-31. [R Development](https://github.com/mikeroyal/VSCode-Guide#r-development)
+31. [Python Development](https://github.com/mikeroyal/VSCode-Guide#python-development)
 
-32. [Rust Development](https://github.com/mikeroyal/VSCode-Guide#rust-development)
+32. [R Development](https://github.com/mikeroyal/VSCode-Guide#r-development)
 
-33. [Go Development](https://github.com/mikeroyal/VSCode-Guide#go-development)
+33. [Rust Development](https://github.com/mikeroyal/VSCode-Guide#rust-development)
 
-34. [Swift Development](https://github.com/mikeroyal/VSCode-Guide#swift-development)
+34. [Go Development](https://github.com/mikeroyal/VSCode-Guide#go-development)
 
-35. [Ruby Development](https://github.com/mikeroyal/VSCode-Guide#ruby-development)
+35. [Swift Development](https://github.com/mikeroyal/VSCode-Guide#swift-development)
 
-36. [PHP Development](https://github.com/mikeroyal/VSCode-Guide#php-development)
+36. [Ruby Development](https://github.com/mikeroyal/VSCode-Guide#ruby-development)
 
-37. [Flutter Development](https://github.com/mikeroyal/VSCode-Guide#flutter-development)
+37. [PHP Development](https://github.com/mikeroyal/VSCode-Guide#php-development)
 
-38. [Networking](https://github.com/mikeroyal/VSCode-Guide#networking)
+38. [Flutter Development](https://github.com/mikeroyal/VSCode-Guide#flutter-development)
 
-39. [Databases](https://github.com/mikeroyal/VSCode-Guide#databases)
+39. [Networking](https://github.com/mikeroyal/VSCode-Guide#networking)
+
+40. [Databases](https://github.com/mikeroyal/VSCode-Guide#databases)
 
 # Getting Started
 [Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
@@ -102,24 +104,24 @@
 
 [Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
 
-[GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces) is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code.
+[GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces) is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code. Also, from any repo or pull request on GitHub you can simply press the period (.) key on your keyboard to bring up the browser-based VS Code environment with the source code file ready for editing. That dot (.) press to bring up the web-based VS Code editor takes you to https://github.dev/.
 
 [Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
 
 [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
 
-[VSCode Documentation](https://code.visualstudio.com/docs)
+[VS Code Documentation](https://code.visualstudio.com/docs)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/140832435-49e53589-e9e1-47fe-a1bd-d9800cfc1274.png">
 <br />
-VSCode
+VS Code
 </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/140832440-0247a088-4eeb-4c57-ae7d-90894d56d629.png">
 <br />
-VSCode Marketplace
+VS Code Marketplace
 </p>
 
 # Azure Development
@@ -1080,6 +1082,101 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/109563870-2e463180-7a95-11eb-93b1-77c1ff0ef39d.png">
 </p>
+
+# GraphQL Development
+[Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120384173-aa415700-c2da-11eb-8a5c-9cea16d08686.png">
+  <br />
+</p>
+
+**[GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)**
+
+## GraphQL Learning Resources
+
+[GraphQL](https://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+
+[Learning GraphQL](https://graphql.org/learn/)
+
+[GraphQL Community](https://graphql.org/community/)
+
+[GraphQL Landscape](https://landscape.graphql.org)
+
+[GraphQL Foundation](https://graphql.org/foundation/)
+
+[GitHub GraphQL API ](https://docs.github.com/en/graphql)
+
+[GraphQL Supported Programming Languages](https://graphql.org/code/#language-support)
+
+[GraphQL Code Tools](https://graphql.org/code/#generic-tools)
+
+[GraphQL Services](https://graphql.org/code/#services)
+
+[Top GraphQL Courses on Udemy](https://www.udemy.com/topic/graphql/)
+
+[Learning GraphQL Online Classes on LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql)
+
+[GraphQL Tutorials on Dgraph](https://dgraph.io/learn/)
+
+[GraphQL Training Courses on NobleProg](https://www.nobleprog.com/graphql-training)
+
+[GraphQL: The Big Picture Course on Pluralsight](https://www.pluralsight.com/courses/graphql-big-picture)
+
+[Building Scalable APIs with GraphQL on Pluralsight](https://www.pluralsight.com/courses/graphql-scalable-apis)
+
+[Consuming a GraphQL API with Apollo Client and React on Pluralsight](https://www.pluralsight.com/courses/consuming-graphql-api-with-apollo-client-react)
+
+[Exploring GraphQL: A Query Language for APIs on edX](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
+
+
+## GraphQL Tool, Libraries, and Frameworks
+
+[GraphQL CLI](https://github.com/Urigo/graphql-cli) is a command line tool for common GraphQL development workflows.
+
+[GraphQL Tools](https://github.com/ardatan/graphql-tools) is a set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
+
+[GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) is a tool that compares schemas, validate documents, find breaking changes, find similar types, schema coverage, and more.
+
+[GraphQL Mesh](https://github.com/Urigo/graphql-mesh) is a tool that allows you to use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL). It can be used as a gateway to other services, or run as a local GraphQL schema that aggregates data from remote APIs.
+
+[GraphQL Scalars](https://github.com/Urigo/graphql-scalars) is a library of custom GraphQL scalar types for creating precise, type-safe GraphQL schemas.
+
+[GraphQL Modules](https://github.com/Urigo/graphql-modules) is a lets you separate your backend implementation to small, reusable, easy-to-implement and easy-to-test pieces.
+
+[GraphQL Config](https://github.com/kamilkisiela/graphql-config) is a tool that deos one configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
+
+[GraphQLShield](https://github.com/maticzav/graphql-shield) is a tool that helps you create a permission layer for your application. Using an intuitive rule-API, you'll gain the power of the shield engine on every request and reduce the load time of every request with smart caching. This way you can make sure your application will remain quick, and no internal data will be exposed.
+
+[GraphQL Request](https://github.com/prisma-labs/graphql-request) is a simple and flexible JavaScript GraphQL client that works in all JavaScript environments (the browser, Node.js, and React Native) - basically a lightweight wrapper around fetch.
+
+[Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+
+[Dgraph](https://dgraph.io/) is a native GraphQL graph database that is built to be distributed. This makes it highly scalable, performant, and blazingly fast - even for complex queries over terabytes of data.
+
+[GraphQL.js](https://www.npmjs.com/package/graphql) is a general-purpose library and can be used both in a Node server and in the browser. As an example, the GraphiQL tool is built with GraphQL.js. So building a project using GraphQL.js with webpack or rollup should just work and only include the portions of the library you use.
+
+[urql](https://github.com/FormidableLabs/urql) is a GraphQL client that exposes a set of helpers for several frameworks. It's built to be highly customisable and versatile so you can take it from getting started with your first GraphQL project all the way to building complex apps and experimenting with GraphQL clients.
+
+[React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
+
+[React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
+
+[Apollo Client](https://apollographql.com/client) is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL.
+
+[Relay](https://github.com/facebook/relay) is Facebook's framework for building React applications that talk to a GraphQL backend.
+
+[Strapi](https://github.com/strapi/strapi) is an open source Node.js Headless CMS to easily build customisable APIs.
+
+[Prettier](https://github.com/prettier/prettier) is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) is a blazing-fast GraphQL server that gives you instant, realtime GraphQL APIs over Postgres, with [webhook triggers](https://github.com/hasura/graphql-engine/blob/master/event-triggers.md) on database events, and [remote schemas](https://github.com/hasura/graphql-engine/blob/master/remote-schemas.md) for business logic.
+
+[Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+[PostGraphile](https://github.com/graphile/postgraphile) is a tool that builds a powerful, extensible and performant GraphQL API from a PostgreSQL schema in seconds; saving you weeks if not months of development time.
+
+[Lokka](https://github.com/kadirahq/lokka) simple JavaScript GraphQL client that works in all JavaScript environments (the browser, Node.js, and React Native).
 
 # .NET Development
 
