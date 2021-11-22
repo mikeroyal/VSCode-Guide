@@ -1253,11 +1253,16 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 </p>
 
+
 ## .NET Learning Resources
 
 [.NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
 
+[Announcing .NET 6](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
+
 [.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
+
+[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [Getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
 
@@ -1265,9 +1270,39 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Intro .NET Guide by JetBrains ](https://blog.jetbrains.com/dotnet/2020/07/09/introducing-the-net-guide-tutorials-and-tips-tricks-for-net-rider-and-resharper/)
 
-[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) write any application using the C# programming language on the .NET platform.
+[.NET on Microsoft Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/dotnet/)
 
-## .NET Tools
+[Top .NET Courses Online | Udemy](https://www.udemy.com/topic/net/)
+
+[Top ASP.NET Core Courses Online | Udemy](https://www.udemy.com/topic/aspnet-core/)
+
+[Learn Parallel Programming with C# and .NET | Udemy](https://www.udemy.com/course/parallel-dotnet/)
+
+[Learn to build an e-commerce app with .Net Core and Angular | Udemy](https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/)
+
+[Dependency Injection in C# and .NET with the Autofac Library | Udemy](https://www.udemy.com/course/di-ioc-dotnet/)
+
+[Modern Application Development with .NET on AWS Specialization | Coursera](https://www.coursera.org/specializations/aws-net-serverless-development)
+
+[Introducing .NET Core Course | Coursera](https://www.coursera.org/lecture/develop-windows-apps-gcp/introducing-net-core-JkSfp)
+
+[Learn .NET with Online Courses | edX](https://www.edx.org/learn/.net)
+
+[.NET Training Course | LearningTree](https://www.learningtree.com/training-directory/net-visual-studio-training/)
+
+[.NET Training: Introduction | Pluralsight](https://www.pluralsight.com/courses/becoming-dotnet-developer)
+
+## .NET Tools and Frameworks
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
+[Language Server Protocol (LSP)](https://microsoft.github.io/language-server-protocol/) is a tool that defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references.
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) is the AI code completion tool trusted by millions of developers to code faster with fewer errors. Whether you are a new dev or a seasoned pro, working solo or part of a team, Tabnine will help push your productivity to new heights while cutting your QA time.
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
@@ -1276,8 +1311,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 [Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
-
-[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Rider](https://www.jetbrains.com/rider/) is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.
 
@@ -1299,7 +1332,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
-[React Native Windows](https://microsoft.github.io/react-native-windows/) is a ramework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.
+[React Native Windows](https://microsoft.github.io/react-native-windows/) is a framework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.
 
 [ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
 
@@ -1308,6 +1341,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [MAUI](https://github.com/dotnet/maui) is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
+
 
 # C# Development
 
@@ -2676,7 +2710,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [Introduction to C++ for Programmers | Harvard ](https://online-learning.harvard.edu/course/introduction-c-programmers)
 
 [Online C Courses | Harvard University](https://online-learning.harvard.edu/subject/c)
-
 
 ## C/C++ Tools, Libraries, and Frameworks
 
